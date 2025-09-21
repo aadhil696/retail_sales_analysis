@@ -1,0 +1,5 @@
+.jupyter
+.pandas
+.sqlalchemy
+.oracle db
+.jupyter
