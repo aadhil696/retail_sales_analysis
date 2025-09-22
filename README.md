@@ -1,0 +1,1 @@
+End-to-end retail sales analysis project using Python (Pandas) for data cleaning and preprocessing, and Oracle SQL for structured querying and advanced business insights such as revenue trends, product performance, and regional sales growth.
